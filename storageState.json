@@ -1,0 +1,108 @@
+{
+  "cookies": [
+    {
+      "sameSite": "Lax",
+      "name": "Hm_lvt_cc8266ca9726a0d30f6cb142d0489b5e",
+      "value": "1648120406",
+      "domain": ".passport1.clickpaas.com",
+      "path": "/",
+      "expires": 1679656406,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "Hm_lpvt_cc8266ca9726a0d30f6cb142d0489b5e",
+      "value": "1648120406",
+      "domain": ".passport1.clickpaas.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "JSESSIONID",
+      "value": "65AF2D08D1F0E023579B037DE0A39BF8",
+      "domain": "passport1.clickpaas.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "tokenId",
+      "value": "c9f9cf9c041055f730bbfe23cc9b7102",
+      "domain": ".clickpaas.com",
+      "path": "/",
+      "expires": 1648293207.949926,
+      "httpOnly": true,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "JSESSIONID",
+      "value": "7644396E591786D8244FA89DF1D937DD",
+      "domain": "app.clickpaas.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "Hm_lvt_cc8266ca9726a0d30f6cb142d0489b5e",
+      "value": "1648120409",
+      "domain": ".app.clickpaas.com",
+      "path": "/",
+      "expires": 1679656408,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "Hm_lpvt_cc8266ca9726a0d30f6cb142d0489b5e",
+      "value": "1648120409",
+      "domain": ".app.clickpaas.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "HMACCOUNT_BFESS",
+      "value": "7465D76BAA4F417B",
+      "domain": ".hm.baidu.com",
+      "path": "/",
+      "expires": 2147385600.578851,
+      "httpOnly": false,
+      "secure": true
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://passport1.clickpaas.com",
+      "localStorage": [
+        {
+          "name": "companyId",
+          "value": "null"
+        },
+        {
+          "name": "Hm_lvt_cc8266ca9726a0d30f6cb142d0489b5e",
+          "value": "1679656406218|1648120406"
+        }
+      ]
+    },
+    {
+      "origin": "https://app.clickpaas.com",
+      "localStorage": [
+        {
+          "name": "Hm_lvt_cc8266ca9726a0d30f6cb142d0489b5e",
+          "value": "1679656408542|1648120409"
+        }
+      ]
+    }
+  ]
+}

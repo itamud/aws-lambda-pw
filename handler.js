@@ -11,7 +11,8 @@ module.exports.runTest = async event => {
     //   }
     // }
 
-    const results = execSync(`npx playwright test ${event.filename}`, { encoding: "utf-8" })
+    // 默认使用 grep 模糊匹配，用 `/${filename}` 精准匹配文件名
+    const results = execSync(`npx playwright test /${event.filename}`, { encoding: "utf-8" })
 
     console.log("results: ", results)
 
